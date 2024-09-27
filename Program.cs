@@ -1,7 +1,5 @@
 ﻿
 //make menu first then move onto logic
-//hello
-
 
 for (int i = 1; i < 5; i++){
     System.Console.Write(i);

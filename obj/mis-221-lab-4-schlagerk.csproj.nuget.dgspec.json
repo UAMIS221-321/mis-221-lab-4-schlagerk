@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kates\\OneDrive\\Documents\\source\\Fall2024repos\\mis-221-lab-4-schlagerk\\mis-221-lab-4-schlagerk.csproj": {}
+    "C:\\Users\\kates\\OneDrive\\Documents\\source\\Fall2024repos\\221fall24\\labs\\mis-221-lab-4-schlagerk\\mis-221-lab-4-schlagerk.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kates\\OneDrive\\Documents\\source\\Fall2024repos\\mis-221-lab-4-schlagerk\\mis-221-lab-4-schlagerk.csproj": {
+    "C:\\Users\\kates\\OneDrive\\Documents\\source\\Fall2024repos\\221fall24\\labs\\mis-221-lab-4-schlagerk\\mis-221-lab-4-schlagerk.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kates\\OneDrive\\Documents\\source\\Fall2024repos\\mis-221-lab-4-schlagerk\\mis-221-lab-4-schlagerk.csproj",
+        "projectUniqueName": "C:\\Users\\kates\\OneDrive\\Documents\\source\\Fall2024repos\\221fall24\\labs\\mis-221-lab-4-schlagerk\\mis-221-lab-4-schlagerk.csproj",
         "projectName": "mis-221-lab-4-schlagerk",
-        "projectPath": "C:\\Users\\kates\\OneDrive\\Documents\\source\\Fall2024repos\\mis-221-lab-4-schlagerk\\mis-221-lab-4-schlagerk.csproj",
+        "projectPath": "C:\\Users\\kates\\OneDrive\\Documents\\source\\Fall2024repos\\221fall24\\labs\\mis-221-lab-4-schlagerk\\mis-221-lab-4-schlagerk.csproj",
         "packagesPath": "C:\\Users\\kates\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kates\\OneDrive\\Documents\\source\\Fall2024repos\\mis-221-lab-4-schlagerk\\obj\\",
+        "outputPath": "C:\\Users\\kates\\OneDrive\\Documents\\source\\Fall2024repos\\221fall24\\labs\\mis-221-lab-4-schlagerk\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kates\\AppData\\Roaming\\NuGet\\NuGet.Config"

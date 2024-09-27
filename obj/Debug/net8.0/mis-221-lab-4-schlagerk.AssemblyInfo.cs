@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("mis-221-lab-4-schlagerk")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d49459b1cd54ebb5b00644f431ef56c3b4d3887b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7b002d512f976509a5f6d595fcddc83103dca9c3")]
 [assembly: System.Reflection.AssemblyProductAttribute("mis-221-lab-4-schlagerk")]
 [assembly: System.Reflection.AssemblyTitleAttribute("mis-221-lab-4-schlagerk")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
